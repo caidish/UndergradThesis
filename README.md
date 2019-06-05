@@ -1,5 +1,5 @@
 # UndergradThesis
-This repository is for my undergraduate thesis. It contains the tex file, the bib file and figures needed to reproduce the thesis. Some programs to support the thesis are in preparation. 
+This repository is for my undergraduate thesis. It contains the bib file and figures needed to reproduce the thesis. Some programs to support the thesis are in preparation. The main tex file will be added after the graduation. 
 
 ## Abstract:
 The first motivation of this thesis is that the world is ultimately geometric. On the other hand, state-of-art technology allows us to control the artificial system, broadening our picture about the physics. People are now proposing, can we use this controllable artificial system to discover the geometric theory of physics? That means, the science of physics is now going beyond the pathway proposed by Bacon to Kuhn and Popper – the revolution of science becomes synergistic nowadays. The bounds between the physics(interaction), math(geometry), and engineering(control) become vaguer and vaguer. 
