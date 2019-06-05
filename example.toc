@@ -1,0 +1,43 @@
+\contentsline {section}{摘要}{I}{section*.1}
+\contentsline {section}{Abstract}{III}{section*.2}
+\contentsline {section}{\numberline {1}导论}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}微分几何中的数学概念在物理中的应用 }{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}理论力学}{5}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}电动力学}{10}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}量子相对论和量子几何学: $CP(n)$作为例子}{13}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Fubini-Study度规和曲率2-形式}{13}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}基态流形的拓扑和参数测地线方程}{16}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}可观测量和几何薛定谔方程}{18}{subsubsection.1.2.3}
+\contentsline {subsection}{\numberline {1.3}拓扑绝缘体}{19}{subsection.1.3}
+\contentsline {section}{\numberline {2}超导量子电路}{29}{section.2}
+\contentsline {subsection}{\numberline {2.1}超导量子电路的构件}{31}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}约瑟夫森结与库伯盒的量子化}{31}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}传输线腔的量子化}{33}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}常见的简单量子比特}{34}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}量子比特之间的\textit {in situ}耦合器}{35}{subsubsection.2.1.4}
+\contentsline {subsection}{\numberline {2.2}超导量子电路的理论模型}{37}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}JC模型和拉比震荡}{37}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Rabi模型}{41}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}量子控制}{46}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}超导量子电路上的人工规范场}{48}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}其他体系中的人工规范场}{49}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}参变耦合导致的有效人工规范场}{53}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}应用1:超导量子电路的谱测量}{56}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}应用2:超导量子电路上的非绝热几何和乐门}{60}{subsection.2.5}
+\contentsline {section}{\numberline {3}量子模拟}{64}{section.3}
+\contentsline {subsection}{\numberline {3.1}量子模拟的纲领}{65}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}应用1:超导量子电路模拟拓扑绝缘体}{68}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}应用2:超导量子电路研究非厄米下的拓扑物相}{78}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}应用3:超导量子电路测量本征态Kähler流形上的几何学}{87}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}量子层析办法}{88}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}非绝热演化办法}{89}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}周期微扰办法}{90}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.4}例子：自旋1/2系统以及自旋链系统}{90}{subsubsection.3.4.4}
+\contentsline {section}{\numberline {4}结论和展望}{93}{section.4}
+\contentsline {section}{\numberline {5}致谢和版权声明}{94}{section.5}
+\contentsline {section}{\numberline {6}本科发表的工作}{96}{section.6}
+\contentsline {section}{参考文献}{97}{section*.54}
+\contentsline {section}{附录 \numberline {A}微分形式}{119}{附录.1.A}
+\contentsline {section}{附录 \numberline {B}基本群、高维同伦群和拓扑不变量}{125}{附录.1.B}
+\contentsline {section}{附录 \numberline {C}纤维丛理论}{131}{附录.1.C}
+\contentsline {section}{附录 \numberline {D}同调、上同调和拓扑不变量}{138}{附录.1.D}

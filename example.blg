@@ -1,0 +1,147 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: example.aux
+The style file: gbt7714-2005.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated field_info (elt_size=4) to 11732 items from 5000.
+Database file #1: reference.bib.bib
+Warning--Require address: weinberg1994dreams
+Warning--Require citedate: GU20171
+Warning--Require address: popper2005logic
+Warning--Require address: kuhn2012structure
+Warning--Require address: descartes1987discours
+Warning--Require address: bacon1878novum
+Warning--Require citedate: Goldman2010
+Warning--Require citedate: Grusdt2014
+Warning--Require citedate: aidelsburger2011experimental
+Warning--Require citedate: Wang2010
+Warning--Require citedate: khanikaev2013photonic
+Warning--Require citedate: ozawa2018topological
+Warning--Require citedate: schomerus2013parity
+Warning--Require citedate: yang2018ideal
+Warning--Require citedate: cheng2016robust
+Warning--Require address: 省身2001微分几何讲义
+Warning--Require address: 扬政1998物理学中的几何方法
+Warning--Require address: 梁灿彬2006微分几何入门与广义相对论
+Warning--Require address: frankel2011geometry
+Warning--Require journal: jammer1974philosophy
+Warning--Require citedate: RevModPhys.83.1057
+Warning--Require citedate: Kane2005a
+Warning--Require citedate: sheng2006quantum
+Warning--Require citedate: Kane2005
+Warning--Require citedate: Wu2006
+Warning--Require address: haroche2006exploring
+Warning--Require citedate: reagor2016quantum
+Warning--Require address: scully1999quantum
+Warning--Require address: gardiner2004quantum
+Warning--Require citedate: Roushan2017a
+Warning--Require citedate: Sirois2015
+Warning--Require citedate: owens2018quarter
+Warning--Require citedate: Koch2010
+Warning--Require citedate: Wang2016
+Warning--Require citedate: Roushan2017
+Warning--Require citedate: song201710
+Warning--Require citedate: Georgescu2014
+Warning--Require citedate: harrow2017quantum
+Warning--Require address: inguscio2008ultra
+Warning--Require address: giamarchi2003quantum
+Warning--Require address: zeng2015quantum
+Warning--Require citedate: laughlin1981quantized
+Warning--Require citedate: Ando2013topological
+Warning--Require citedate: yuan2014generation
+Warning--Require citedate: murakami2003dissipationless
+Warning--Require citedate: koralek2009emergence
+Warning--Require citedate: sau2010generic
+Warning--Require citedate: Laughlin1983
+Warning--Require citedate: zhang2013topological
+Warning--Require citedate: mochizuki2014thermally
+Warning--Require citedate: Whittaker2018
+Warning--Require citedate: Ningyuan2015
+Warning--Require citedate: Zhu2018
+Warning--Require citedate: hsieh2009observation
+Warning--Require citedate: imhof2018topolectrical
+Warning--Require citedate: aidelsburger2015measuring
+Warning--Require citedate: Gong2018topo
+Warning--Require citedate: malzard2015topologically
+Warning--Require citedate: lourencco2018self
+Warning--Require citedate: esaki2011edge
+Warning--Require citedate: Shen2018
+Warning--Require citedate: Osterloh2005
+Warning--Require citedate: Goldman2009
+Warning--Require citedate: zeuner2015observation
+Warning--Require citedate: leykam2017edge
+Warning--Require citedate: lee2016anomalous
+Warning--Require citedate: Wu2015
+Warning--Require citedate: Wu2013
+Warning--Require citedate: feng2017non
+Warning--Require citedate: Yao2018
+Warning--Require citedate: Yao2018a
+Warning--Require citedate: Galitski2013
+Warning--Require citedate: claro1979magnetic
+Warning--Require citedate: hofstadter1976energy
+Warning--Require citedate: aidelsburger2013realization
+Warning--Require citedate: Paik2011
+Warning--Require citedate: Girvin2013
+Warning--Require citedate: reagor2013reaching
+Warning--Require citedate: Zakka-bajjani2011
+Warning--Require citedate: regensburger2012parity
+Warning--Require citedate: st2017lasing
+Warning--Require citedate: harari2018topological
+Warning--Require citedate: Quijandria2018
+Warning--Require address: wen2004quantum
+Warning--Require citedate: bandres2018topological
+Warning--Require citedate: prodan2009robustness
+Warning--Require citedate: klitzing1980new
+Warning--Require citedate: hasan2010colloquium
+Warning--Require citedate: lu2015experimental
+Warning--Require citedate: sala2015spin
+Warning--Require citedate: schomerus2013topologically
+Warning--Require citedate: tsui1982two
+Warning--Require citedate: lu2014topological
+Warning--Require citedate: Zhu2006
+Warning--Require citedate: Jia2013
+Warning--Require citedate: Qi2011
+You've used 216 entries,
+            3051 wiz_defined-function locations,
+            1992 strings with 48585 characters,
+and the built_in function-call counts, 362334 in all, are:
+= -- 40644
+> -- 743
+< -- 1702
++ -- 33555
+- -- 2261
+* -- 11314
+:= -- 42611
+add.period$ -- 0
+call.type$ -- 216
+change.case$ -- 1054
+chr.to.int$ -- 0
+cite$ -- 312
+duplicate$ -- 49890
+empty$ -- 11444
+format.name$ -- 2108
+if$ -- 95492
+int.to.chr$ -- 0
+int.to.str$ -- 216
+missing$ -- 0
+newline$ -- 675
+num.names$ -- 216
+pop$ -- 4010
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2922
+stack$ -- 0
+substring$ -- 42911
+swap$ -- 10420
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 96
+while$ -- 4065
+width$ -- 219
+write$ -- 3237
+(There were 96 warnings)

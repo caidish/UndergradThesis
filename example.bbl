@@ -1,0 +1,1449 @@
+\begin{thebibliography}{100}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{weinberg1994dreams}
+\bibauthor{WEINBERG S}\@. \bibbooktitle{Dreams of a final
+  theory}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Vintage}\@, \bibyear{1994}\@.
+
+\bibitem{GU20171}
+\bibauthor{GU X\@, KOCKUM A~F\@, MIRANOWICZ A, et~al}\@. \bibtitle{Microwave
+  photonics with superconducting quantum circuits}\bibmark{[J/OL]}\@.
+  \bibjournal{Physics Reports}\@, \bibyear{2017}\@,
+  \bibvolume{718-719}\thinspace{}\textnormal{: }\bibpages{1
+  \thinspace{}\textnormal{--}\thinspace{} 102}\@.
+  \newline\url{http://www.sciencedirect.com/science/article/pii/S0370157317303290}\@.
+
+\bibitem{popper2005logic}
+\bibauthor{POPPER K}\@. \bibbooktitle{The logic of scientific
+  discovery}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Routledge}\@, \bibyear{2005}\@.
+
+\bibitem{kuhn2012structure}
+\bibauthor{KUHN T~S}\@. \bibbooktitle{The structure of scientific
+  revolutions}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{University of Chicago press}\@, \bibyear{2012}\@.
+
+\bibitem{descartes1987discours}
+\bibauthor{DESCARTES R\@, GILSON E}\@. \bibbooktitle{Discours de la
+  m{\'e}thode}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Vrin}\@, \bibyear{1987}\@.
+
+\bibitem{bacon1878novum}
+\bibauthor{BACON F}\@. \bibbooktitle{Novum organum}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Clarendon
+  press}\@, \bibyear{1878}\@.
+
+\bibitem{Goldman2010}
+\bibauthor{GOLDMAN N\@, SATIJA I\@, NIKOLIC P, et~al}\@. \bibtitle{Realistic
+  Time-Reversal Invariant Topological Insulators with Neutral
+  Atoms}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@, \bibyear{2010}\@,
+  \bibvolume{105}\thinspace{}\textnormal{: }\bibpages{255302}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.105.255302}\@.
+
+\bibitem{Grusdt2014}
+\bibauthor{GRUSDT F\@, ABANIN D\@, DEMLER E}\@. \bibtitle{Measuring Z2
+  topological invariants in optical lattices using
+  interferometry}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. A}\@,
+  \bibyear{2014}\@, \bibvolume{89}\thinspace{}\textnormal{:
+  }\bibpages{043621}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevA.89.043621}\@.
+
+\bibitem{Goldman2014}
+\bibauthor{GOLDMAN N\@, JUZELIUNAS G\@, {\"{O}}HBERG P, et~al}\@.
+  \bibtitle{{Light-induced gauge fields for ultracold atoms}}\bibmark{[J]}\@.
+  \bibjournal{Rep. Prog. Phys.}\@, \bibyear{2014}\@,
+  \bibvolume{77}\bibnumber{(12)}\@.
+
+\bibitem{aidelsburger2011experimental}
+\bibauthor{AIDELSBURGER M\@, ATALA M\@, NASCIMB\`ENE S, et~al}\@.
+  \bibtitle{Experimental Realization of Strong Effective Magnetic Fields in an
+  Optical Lattice}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2011}\@, \bibvolume{107}\thinspace{}\textnormal{:
+  }\bibpages{255301}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.107.255301}\@.
+
+\bibitem{Zhai2015}
+\bibauthor{ZHAI H}\@. \bibtitle{{Degenerate quantum gases with spin-orbit
+  coupling: A review}}\bibmark{[J]}\@. \bibjournal{Rep. Prog. Phys.}\@,
+  \bibyear{2015}\@, \bibvolume{78}\bibnumber{(2)}\@.
+
+\bibitem{Wang2010}
+\bibauthor{WANG C\@, GAO C\@, JIAN C-M, et~al}\@. \bibtitle{Spin-Orbit Coupled
+  Spinor Bose-Einstein Condensates}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev.
+  Lett.}\@, \bibyear{2010}\@, \bibvolume{105}\thinspace{}\textnormal{:
+  }\bibpages{160403}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.105.160403}\@.
+
+\bibitem{khanikaev2013photonic}
+\bibauthor{KHANIKAEV A~B\@, MOUSAVI S~H\@, TSE W-K, et~al}\@.
+  \bibtitle{Photonic topological insulators}\bibmark{[J/OL]}\@.
+  \bibjournal{Nat. Mat.}\@, \bibyear{2013}\@,
+  \bibvolume{12}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{233}\@.
+  \newline\url{https://doi.org/10.1038/nmat3520}\@.
+
+\bibitem{ozawa2018topological}
+\bibauthor{OZAWA T\@, PRICE H~M\@, AMO A, et~al}\@. \bibtitle{Topological
+  photonics}\bibmark{[J/OL]}\@. \bibjournal{arXiv:1802.04173}\@,
+  \bibyear{2018}\@. \newline\url{https://arxiv.org/abs/1802.04173}\@.
+
+\bibitem{schomerus2013parity}
+\bibauthor{SCHOMERUS H\@, HALPERN N~Y}\@. \bibtitle{Parity Anomaly and
+  Landau-Level Lasing in Strained Photonic Honeycomb
+  Lattices}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2013}\@, \bibvolume{110}\thinspace{}\textnormal{:
+  }\bibpages{013903}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.110.013903}\@.
+
+\bibitem{yang2018ideal}
+\bibauthor{YANG B\@, GUO Q\@, TREMAIN B, et~al}\@. \bibtitle{Ideal Weyl points
+  and helicoid surface states in artificial photonic crystal
+  structures}\bibmark{[J/OL]}\@. \bibjournal{Science}\@, \bibyear{2018}\@,
+  \bibvolume{359}\bibnumber{(6379)}\thinspace{}\textnormal{:
+  }\bibpages{1013\thinspace{}\textnormal{--}\thinspace{}1016}\@.
+  \newline\url{http://science.sciencemag.org/content/359/6379/1013}\@.
+
+\bibitem{cheng2016robust}
+\bibauthor{CHENG X\@, JOUVAUD C\@, NI X, et~al}\@. \bibtitle{Robust
+  reconfigurable electromagnetic pathways within a photonic topological
+  insulator}\bibmark{[J/OL]}\@. \bibjournal{Nat. Mat.}\@, \bibyear{2016}\@,
+  \bibvolume{15}\bibnumber{(5)}\thinspace{}\textnormal{: }\bibpages{542}\@.
+  \newline\url{https://doi.org/10.1038/nmat4573}\@.
+
+\bibitem{baianu2009algebraic}
+\bibauthor{BAIANU I~C\@, GLAZEBROOK J~F\@, BROWN R, et~al}\@.
+  \bibtitle{Algebraic topology foundations of supersymmetry and symmetry
+  breaking in quantum field theory and quantum gravity: A
+  review}\bibmark{[J]}\@. \bibjournal{SIGMA. Symmetry, Integrability and
+  Geometry: Methods and Applications}\@, \bibyear{2009}\@,
+  \bibvolume{5}\thinspace{}\textnormal{: }\bibpages{051}\@.
+
+\bibitem{chen2010local}
+\bibauthor{CHEN X\@, GU Z-C\@, WEN X-G}\@. \bibtitle{Local unitary
+  transformation, long-range quantum entanglement, wave function
+  renormalization, and topological order}\bibmark{[J]}\@. \bibjournal{Physical
+  review b}\@, \bibyear{2010}\@,
+  \bibvolume{82}\bibnumber{(15)}\thinspace{}\textnormal{: }\bibpages{155138}\@.
+
+\bibitem{wen1990topological}
+\bibauthor{WEN X-G}\@. \bibtitle{Topological orders in rigid
+  states}\bibmark{[J]}\@. \bibjournal{International Journal of Modern Physics
+  B}\@, \bibyear{1990}\@,
+  \bibvolume{4}\bibnumber{(02)}\thinspace{}\textnormal{:
+  }\bibpages{239\thinspace{}\textnormal{--}\thinspace{}271}\@.
+
+\bibitem{wen1989vacuum}
+\bibauthor{WEN X-G}\@. \bibtitle{Vacuum degeneracy of chiral spin states in
+  compactified space}\bibmark{[J]}\@. \bibjournal{Physical Review B}\@,
+  \bibyear{1989}\@, \bibvolume{40}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{7387}\@.
+
+\bibitem{省身2001微分几何讲义}
+\bibauthor{省身\@, 维桓}\@.
+  \bibbooktitle{微分几何讲义}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{北京大学出版社}\@, \bibyear{2001}\@.
+
+\bibitem{扬政1998物理学中的几何方法}
+\bibauthor{扬政\@, 承天}\@.
+  \bibbooktitle{物理学中的几何方法}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{高等教育出版社}\@, \bibyear{1998}\@.
+
+\bibitem{梁灿彬2006微分几何入门与广义相对论}
+\bibauthor{梁灿彬\@, 周彬}\@.
+  \bibbooktitle{微分几何入门与广义相对论}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{科学出版社}\@, \bibyear{2006}\@.
+
+\bibitem{frankel2011geometry}
+\bibauthor{FRANKEL T}\@. \bibbooktitle{The geometry of physics: an
+  introduction}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Cambridge university press}\@, \bibyear{2011}\@.
+
+\bibitem{avron1983homotopy}
+\bibauthor{AVRON J~E\@, SEILER R\@, SIMON B}\@. \bibtitle{{Homotopy and
+  quantization in condensed matter physics}}\bibmark{[J]}\@. \bibjournal{Phys.
+  Rev. Lett.}\@, \bibyear{1983}\@,
+  \bibvolume{51}\bibnumber{(1)}\thinspace{}\textnormal{: }\bibpages{51}\@.
+
+\bibitem{kennedy2015homotopy}
+\bibauthor{KENNEDY R\@, GUGGENHEIM C}\@. \bibtitle{Homotopy theory of strong
+  and weak topological insulators}\bibmark{[J]}\@. \bibjournal{Physical Review
+  B}\@, \bibyear{2015}\@,
+  \bibvolume{91}\bibnumber{(24)}\thinspace{}\textnormal{: }\bibpages{245148}\@.
+
+\bibitem{mohajan2015basic}
+\bibauthor{MOHAJAN H~K}\@. \bibtitle{Basic Concepts of Differential Geometry
+  and Fibre Bundles}\bibmark{[J]}\@. \bibjournal{ABC Journal of Advanced
+  Research}\@, \bibyear{2015}\@,
+  \bibvolume{4}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{57\thinspace{}\textnormal{--}\thinspace{}73}\@.
+
+\bibitem{kitaev2009periodic}
+\bibauthor{KITAEV A}\@. \bibtitle{Periodic table for topological insulators and
+  superconductors}\bibmark{[C]} //\thinspace{}\bibbooktitle{AIP Conference
+  Proceedings\thinspace{}\textnormal{: }Vol~1134}\@.
+  \bibyear{2009}\thinspace{}\textnormal{:
+  }\bibpages{22\thinspace{}\textnormal{--}\thinspace{}30}\@.
+
+\bibitem{kawabata2018symmetry}
+\bibauthor{KAWABATA K\@, SHIOZAKI K\@, UEDA M, et~al}\@. \bibtitle{Symmetry and
+  topology in non-Hermitian physics}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1812.09133}\@, \bibyear{2018}\@.
+
+\bibitem{minic2004general}
+\bibauthor{MINIC D\@, TZE C-H}\@. \bibtitle{{A general theory of quantum
+  relativity}}\bibmark{[J]}\@. \bibjournal{Phys. Lett. B}\@, \bibyear{2004}\@,
+  \bibvolume{581}\thinspace{}\textnormal{:
+  }\bibpages{111\thinspace{}\textnormal{--}\thinspace{}118}\@.
+
+\bibitem{provost1980riemannian}
+\bibauthor{PROVOST J~P\@, VALLEE G}\@. \bibtitle{{Riemannian structure on
+  manifolds of quantum states}}\bibmark{[J]}\@. \bibjournal{Commun. Math.
+  Phys.}\@, \bibyear{1980}\@,
+  \bibvolume{76}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{289\thinspace{}\textnormal{--}\thinspace{}301}\@.
+
+\bibitem{jammer1974philosophy}
+\bibauthor{JAMMER M}\@. \bibtitle{Philosophy of Quantum Mechanics. the
+  interpretations of quantum mechanics in historical
+  perspective}\bibmark{[J]}\@, \bibyear{1974}\@.
+
+\bibitem{brody2001geometric}
+\bibauthor{BRODY D~C\@, HUGHSTON L~P}\@. \bibtitle{Geometric quantum
+  mechanics}\bibmark{[J]}\@. \bibjournal{Journal of geometry and physics}\@,
+  \bibyear{2001}\@, \bibvolume{38}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{19\thinspace{}\textnormal{--}\thinspace{}53}\@.
+
+\bibitem{bender1999pt}
+\bibauthor{BENDER C~M\@, BOETTCHER S\@, MEISINGER P~N}\@.
+  \bibtitle{PT-symmetric quantum mechanics}\bibmark{[J]}\@. \bibjournal{Journal
+  of Mathematical Physics}\@, \bibyear{1999}\@,
+  \bibvolume{40}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{2201\thinspace{}\textnormal{--}\thinspace{}2229}\@.
+
+\bibitem{polchinski1991weinberg}
+\bibauthor{POLCHINSKI J}\@. \bibtitle{Weinberg’s nonlinear quantum mechanics
+  and the Einstein-Podolsky-Rosen paradox}\bibmark{[J]}\@. \bibjournal{Physical
+  Review Letters}\@, \bibyear{1991}\@,
+  \bibvolume{66}\bibnumber{(4)}\thinspace{}\textnormal{: }\bibpages{397}\@.
+
+\bibitem{weinberg1989testing}
+\bibauthor{WEINBERG S}\@. \bibtitle{Testing quantum mechanics}\bibmark{[J]}\@.
+  \bibjournal{Annals of Physics}\@, \bibyear{1989}\@,
+  \bibvolume{194}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{336\thinspace{}\textnormal{--}\thinspace{}386}\@.
+
+\bibitem{su1979solitons}
+\bibauthor{SU W\@, SCHRIEFFER J~R\@, HEEGER A~J}\@. \bibtitle{{Solitons in
+  polyacetylene}}\bibmark{[J]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{1979}\@, \bibvolume{42}\bibnumber{(25)}\thinspace{}\textnormal{:
+  }\bibpages{1698}\@.
+
+\bibitem{asboth2016short}
+\bibauthor{ASB{\'{O}}TH J~K\@, OROSZL{\'{A}}NY L\@, P{\'{A}}LYI A}\@.
+  \bibtitle{{A short course on topological insulators}}\bibmark{[J]}\@.
+  \bibjournal{Lect. notes Phys.}\@, \bibyear{2016}\@, \bibvolume{919}\@.
+
+\bibitem{wen2013classifying}
+\bibauthor{WEN X-G}\@. \bibtitle{Classifying gauge anomalies through spt orders
+  and classifying gravitational anomalies through topological
+  orders}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1303.1803}\@,
+  \bibyear{2013}\@.
+
+\bibitem{gu2009tensor}
+\bibauthor{GU Z-C\@, WEN X-G}\@. \bibtitle{Tensor-entanglement-filtering
+  renormalization approach and symmetry-protected topological
+  order}\bibmark{[J]}\@. \bibjournal{Physical Review B}\@, \bibyear{2009}\@,
+  \bibvolume{80}\bibnumber{(15)}\thinspace{}\textnormal{: }\bibpages{155131}\@.
+
+\bibitem{RevModPhys.83.1057}
+\bibauthor{QI X-L\@, ZHANG S-C}\@. \bibtitle{Topological insulators and
+  superconductors}\bibmark{[J/OL]}\@. \bibjournal{Rev. Mod. Phys.}\@,
+  \bibyear{2011}\@, \bibvolume{83}\thinspace{}\textnormal{:
+  }\bibpages{1057\thinspace{}\textnormal{--}\thinspace{}1110}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/RevModPhys.83.1057}\@.
+
+\bibitem{qi2010quantum}
+\bibauthor{QI X-L\@, ZHANG S-C}\@. \bibtitle{The quantum spin Hall effect and
+  topological insulators}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1001.1602}\@, \bibyear{2010}\@.
+
+\bibitem{Kane2005a}
+\bibauthor{KANE C~L\@, MELE E~J}\@. \bibtitle{${Z}_{2}$ Topological Order and
+  the Quantum Spin Hall Effect}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev.
+  Lett.}\@, \bibyear{2005}\@, \bibvolume{95}\thinspace{}\textnormal{:
+  }\bibpages{146802}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.95.146802}\@.
+
+\bibitem{sheng2006quantum}
+\bibauthor{SHENG D~N\@, WENG Z~Y\@, SHENG L, et~al}\@. \bibtitle{Quantum
+  Spin-Hall Effect and Topologically Invariant Chern
+  Numbers}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2006}\@, \bibvolume{97}\thinspace{}\textnormal{:
+  }\bibpages{036808}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.97.036808}\@.
+
+\bibitem{Kane2005}
+\bibauthor{KANE C~L\@, MELE E~J}\@. \bibtitle{Quantum Spin Hall Effect in
+  Graphene}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2005}\@, \bibvolume{95}\thinspace{}\textnormal{:
+  }\bibpages{226801}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.95.226801}\@.
+
+\bibitem{Wu2006}
+\bibauthor{WU C\@, BERNEVIG B~A\@, ZHANG S-C}\@. \bibtitle{Helical Liquid and
+  the Edge of Quantum Spin Hall Systems}\bibmark{[J/OL]}\@. \bibjournal{Phys.
+  Rev. Lett.}\@, \bibyear{2006}\@, \bibvolume{96}\thinspace{}\textnormal{:
+  }\bibpages{106401}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.96.106401}\@.
+
+\bibitem{culcer2012transport}
+\bibauthor{CULCER D}\@. \bibtitle{Transport in three-dimensional topological
+  insulators: Theory and experiment}\bibmark{[J]}\@. \bibjournal{Physica E:
+  Low-dimensional Systems and Nanostructures}\@, \bibyear{2012}\@,
+  \bibvolume{44}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{860\thinspace{}\textnormal{--}\thinspace{}884}\@.
+
+\bibitem{hasan2011three}
+\bibauthor{HASAN M~Z\@, MOORE J~E}\@. \bibtitle{Three-dimensional topological
+  insulators}\bibmark{[J]}\@. \bibjournal{Annu. Rev. Condens. Matter Phys.}\@,
+  \bibyear{2011}\@, \bibvolume{2}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{55\thinspace{}\textnormal{--}\thinspace{}78}\@.
+
+\bibitem{fukui2008topological}
+\bibauthor{FUKUI T\@, FUJIWARA T\@, HATSUGAI Y}\@. \bibtitle{Topological
+  meaning of z2 numbers in time reversal invariant systems}\bibmark{[J]}\@.
+  \bibjournal{Journal of the Physical Society of Japan}\@, \bibyear{2008}\@,
+  \bibvolume{77}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{123705}\@.
+
+\bibitem{moore2007topological}
+\bibauthor{MOORE J~E\@, BALENTS L}\@. \bibtitle{{Topological invariants of
+  time-reversal-invariant band structures}}\bibmark{[J]}\@. \bibjournal{Phys.
+  Rev. B}\@, \bibyear{2007}\@,
+  \bibvolume{75}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{121306}\@.
+
+\bibitem{you2003quantum}
+\bibauthor{YOU J\@, NORI F}\@. \bibtitle{Quantum information processing with
+  superconducting qubits in a microwave field}\bibmark{[J]}\@.
+  \bibjournal{Physical Review B}\@, \bibyear{2003}\@,
+  \bibvolume{68}\bibnumber{(6)}\thinspace{}\textnormal{: }\bibpages{064509}\@.
+
+\bibitem{haroche2006exploring}
+\bibauthor{HAROCHE S\@, RAIMOND J-M}\@. \bibbooktitle{Exploring the quantum:
+  atoms, cavities, and photons}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Oxford university
+  press}\@, \bibyear{2006}\@.
+
+\bibitem{josephson1962possible}
+\bibauthor{JOSEPHSON B~D}\@. \bibtitle{Possible new effects in superconductive
+  tunnelling}\bibmark{[J]}\@. \bibjournal{Physics letters}\@, \bibyear{1962}\@,
+  \bibvolume{1}\bibnumber{(7)}\thinspace{}\textnormal{:
+  }\bibpages{251\thinspace{}\textnormal{--}\thinspace{}253}\@.
+
+\bibitem{reagor2016quantum}
+\bibauthor{REAGOR M\@, PFAFF W\@, AXLINE C, et~al}\@. \bibtitle{Quantum memory
+  with millisecond coherence in circuit QED}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. B}\@, \bibyear{2016}\@,
+  \bibvolume{94}\thinspace{}\textnormal{: }\bibpages{014506}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.94.014506}\@.
+
+\bibitem{nakamura1999coherent}
+\bibauthor{NAKAMURA Y\@, PASHKIN Y~A\@, TSAI J}\@. \bibtitle{Coherent control
+  of macroscopic quantum states in a single-Cooper-pair box}\bibmark{[J]}\@.
+  \bibjournal{nature}\@, \bibyear{1999}\@,
+  \bibvolume{398}\bibnumber{(6730)}\thinspace{}\textnormal{: }\bibpages{786}\@.
+
+\bibitem{Makhlin2001quantum}
+\bibauthor{MAKHLIN Y\@, SCH{\"O}N G\@, SHNIRMAN A}\@. \bibtitle{Quantum-state
+  engineering with Josephson-junction devices}\bibmark{[J]}\@.
+  \bibjournal{Reviews of modern physics}\@, \bibyear{2001}\@,
+  \bibvolume{73}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{357}\@.
+
+\bibitem{girvin2009circuit}
+\bibauthor{GIRVIN S\@, DEVORET M\@, SCHOELKOPF R}\@. \bibtitle{Circuit QED and
+  engineering charge-based superconducting qubits}\bibmark{[J]}\@.
+  \bibjournal{Physica Scripta}\@, \bibyear{2009}\@,
+  \bibvolume{2009}\bibnumber{(T137)}\thinspace{}\textnormal{:
+  }\bibpages{014012}\@.
+
+\bibitem{martinis2009superconducting}
+\bibauthor{MARTINIS J~M}\@. \bibtitle{Superconducting phase
+  qubits}\bibmark{[J]}\@. \bibjournal{Quantum Information Processing}\@,
+  \bibyear{2009}\@, \bibvolume{8}\bibnumber{(2-3)}\thinspace{}\textnormal{:
+  }\bibpages{81\thinspace{}\textnormal{--}\thinspace{}103}\@.
+
+\bibitem{astafiev2004quantum}
+\bibauthor{ASTAFIEV O\@, PASHKIN Y~A\@, NAKAMURA Y, et~al}\@. \bibtitle{Quantum
+  noise in the Josephson charge qubit}\bibmark{[J]}\@. \bibjournal{Physical
+  review letters}\@, \bibyear{2004}\@,
+  \bibvolume{93}\bibnumber{(26)}\thinspace{}\textnormal{: }\bibpages{267007}\@.
+
+\bibitem{chiorescu2003coherent}
+\bibauthor{CHIORESCU I\@, NAKAMURA Y\@, HARMANS C~M, et~al}\@.
+  \bibtitle{Coherent quantum dynamics of a superconducting flux
+  qubit}\bibmark{[J]}\@. \bibjournal{Science}\@, \bibyear{2003}\@,
+  \bibvolume{299}\bibnumber{(5614)}\thinspace{}\textnormal{:
+  }\bibpages{1869\thinspace{}\textnormal{--}\thinspace{}1871}\@.
+
+\bibitem{lucero2012computing}
+\bibauthor{LUCERO E\@, BARENDS R\@, CHEN Y, et~al}\@. \bibtitle{Computing prime
+  factors with a Josephson phase qubit quantum processor}\bibmark{[J]}\@.
+  \bibjournal{Nature Physics}\@, \bibyear{2012}\@,
+  \bibvolume{8}\bibnumber{(10)}\thinspace{}\textnormal{: }\bibpages{719}\@.
+
+\bibitem{scully1999quantum}
+\bibauthor{SCULLY M~O\@, ZUBAIRY M~S}\@. \bibbooktitle{Quantum
+  optics}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{AAPT}\@, \bibyear{1999}\@.
+
+\bibitem{walther2006cavity}
+\bibauthor{WALTHER H\@, VARCOE B~T\@, ENGLERT B-G, et~al}\@. \bibtitle{Cavity
+  quantum electrodynamics}\bibmark{[J]}\@. \bibjournal{Reports on Progress in
+  Physics}\@, \bibyear{2006}\@,
+  \bibvolume{69}\bibnumber{(5)}\thinspace{}\textnormal{: }\bibpages{1325}\@.
+
+\bibitem{niskanen2007quantum}
+\bibauthor{NISKANEN A\@, HARRABI K\@, YOSHIHARA F, et~al}\@. \bibtitle{Quantum
+  coherent tunable coupling of superconducting qubits}\bibmark{[J]}\@.
+  \bibjournal{Science}\@, \bibyear{2007}\@,
+  \bibvolume{316}\bibnumber{(5825)}\thinspace{}\textnormal{:
+  }\bibpages{723\thinspace{}\textnormal{--}\thinspace{}726}\@.
+
+\bibitem{chen2014qubit}
+\bibauthor{CHEN Y\@, NEILL C\@, ROUSHAN P, et~al}\@. \bibtitle{Qubit
+  architecture with high coherence and fast tunable coupling}\bibmark{[J]}\@.
+  \bibjournal{Physical review letters}\@, \bibyear{2014}\@,
+  \bibvolume{113}\bibnumber{(22)}\thinspace{}\textnormal{:
+  }\bibpages{220502}\@.
+
+\bibitem{blais2003tunable}
+\bibauthor{BLAIS A\@, van~den BRINK A~M\@, ZAGOSKIN A~M}\@. \bibtitle{Tunable
+  coupling of superconducting qubits}\bibmark{[J]}\@. \bibjournal{Physical
+  review letters}\@, \bibyear{2003}\@,
+  \bibvolume{90}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{127901}\@.
+
+\bibitem{wallraff2004strong}
+\bibauthor{WALLRAFF A\@, SCHUSTER D~I\@, BLAIS A, et~al}\@. \bibtitle{Strong
+  coupling of a single photon to a superconducting qubit using circuit quantum
+  electrodynamics}\bibmark{[J]}\@. \bibjournal{Nature}\@, \bibyear{2004}\@,
+  \bibvolume{431}\bibnumber{(7005)}\thinspace{}\textnormal{: }\bibpages{162}\@.
+
+\bibitem{you2006superconducting}
+\bibauthor{YOU J\@, NORI F}\@. \bibtitle{Superconducting circuits and quantum
+  information}\bibmark{[J]}\@. \bibjournal{arXiv preprint quant-ph/0601121}\@,
+  \bibyear{2006}\@.
+
+\bibitem{blais2004cavity}
+\bibauthor{BLAIS A\@, HUANG R-S\@, WALLRAFF A, et~al}\@. \bibtitle{Cavity
+  quantum electrodynamics for superconducting electrical circuits: An
+  architecture for quantum computation}\bibmark{[J]}\@. \bibjournal{Physical
+  Review A}\@, \bibyear{2004}\@,
+  \bibvolume{69}\bibnumber{(6)}\thinspace{}\textnormal{: }\bibpages{062320}\@.
+
+\bibitem{you2011atomic}
+\bibauthor{YOU J\@, NORI F}\@. \bibtitle{Atomic physics and quantum optics
+  using superconducting circuits}\bibmark{[J]}\@. \bibjournal{Nature}\@,
+  \bibyear{2011}\@, \bibvolume{474}\bibnumber{(7353)}\thinspace{}\textnormal{:
+  }\bibpages{589}\@.
+
+\bibitem{gardiner2004quantum}
+\bibauthor{GARDINER C\@, ZOLLER P\@, ZOLLER P}\@. \bibbooktitle{Quantum noise:
+  a handbook of Markovian and non-Markovian quantum stochastic methods with
+  applications to quantum optics\thinspace{}\textnormal{:
+  }Vol~56}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Springer Science \& Business Media}\@, \bibyear{2004}\@.
+
+\bibitem{puri1987finite}
+\bibauthor{PURI R\@, AGARWAL G}\@. \bibtitle{Finite-Q cavity electrodynamics:
+  Dynamical and statistical aspects}\bibmark{[J]}\@. \bibjournal{Physical
+  Review A}\@, \bibyear{1987}\@,
+  \bibvolume{35}\bibnumber{(8)}\thinspace{}\textnormal{: }\bibpages{3433}\@.
+
+\bibitem{timoney2011quantum}
+\bibauthor{TIMONEY N\@, BAUMGART I\@, JOHANNING M, et~al}\@. \bibtitle{Quantum
+  gates and memory using microwave-dressed states}\bibmark{[J]}\@.
+  \bibjournal{Nature}\@, \bibyear{2011}\@,
+  \bibvolume{476}\bibnumber{(7359)}\thinspace{}\textnormal{: }\bibpages{185}\@.
+
+\bibitem{phoenix1991establishment}
+\bibauthor{PHOENIX S~J\@, KNIGHT P}\@. \bibtitle{Establishment of an entangled
+  atom-field state in the Jaynes-Cummings model}\bibmark{[J]}\@.
+  \bibjournal{Physical Review A}\@, \bibyear{1991}\@,
+  \bibvolume{44}\bibnumber{(9)}\thinspace{}\textnormal{: }\bibpages{6023}\@.
+
+\bibitem{di2017feynman}
+\bibauthor{DI~STEFANO O\@, STASSI R\@, GARZIANO L, et~al}\@.
+  \bibtitle{Feynman-diagrams approach to the quantum Rabi model for ultrastrong
+  cavity QED: stimulated emission and reabsorption of virtual particles
+  dressing a physical excitation}\bibmark{[J]}\@. \bibjournal{New Journal of
+  Physics}\@, \bibyear{2017}\@,
+  \bibvolume{19}\bibnumber{(5)}\thinspace{}\textnormal{: }\bibpages{053010}\@.
+
+\bibitem{sun2018out}
+\bibauthor{SUN Z-H\@, CAI J-Q\@, TANG Q-C, et~al}\@.
+  \bibtitle{Out-of-time-order correlation functions as indicators of quantum
+  phase transitions in the Rabi and Dicke model}\bibmark{[J]}\@.
+  \bibjournal{arXiv preprint arXiv:1811.11191}\@, \bibyear{2018}\@.
+
+\bibitem{Roushan2017a}
+\bibauthor{ROUSHAN P\@, NEILL C\@, MEGRANT A, et~al}\@. \bibtitle{{Chiral
+  ground-state currents of interacting photons in a synthetic magnetic
+  field}}\bibmark{[J/OL]}\@. \bibjournal{Nat. Phys.}\@, \bibyear{2017}\@,
+  \bibvolume{13}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{146\thinspace{}\textnormal{--}\thinspace{}151}\@.
+  \newline\url{https://doi.org/10.1038/nphys3930}\@.
+
+\bibitem{khaneja2005optimal}
+\bibauthor{KHANEJA N\@, REISS T\@, KEHLET C, et~al}\@. \bibtitle{Optimal
+  control of coupled spin dynamics: design of NMR pulse sequences by gradient
+  ascent algorithms}\bibmark{[J]}\@. \bibjournal{Journal of magnetic
+  resonance}\@, \bibyear{2005}\@,
+  \bibvolume{172}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{296\thinspace{}\textnormal{--}\thinspace{}305}\@.
+
+\bibitem{floether2012robust}
+\bibauthor{FLOETHER F~F\@, de FOUQUIERES P\@, SCHIRMER S~G}\@. \bibtitle{Robust
+  quantum gates for open systems via optimal control: Markovian versus
+  non-Markovian dynamics}\bibmark{[J]}\@. \bibjournal{New Journal of
+  Physics}\@, \bibyear{2012}\@,
+  \bibvolume{14}\bibnumber{(7)}\thinspace{}\textnormal{: }\bibpages{073023}\@.
+
+\bibitem{lloyd2014information}
+\bibauthor{LLOYD S\@, MONTANGERO S}\@. \bibtitle{Information theoretical
+  analysis of quantum optimal control}\bibmark{[J]}\@. \bibjournal{Physical
+  review letters}\@, \bibyear{2014}\@,
+  \bibvolume{113}\bibnumber{(1)}\thinspace{}\textnormal{: }\bibpages{010502}\@.
+
+\bibitem{doria2011optimal}
+\bibauthor{DORIA P\@, CALARCO T\@, MONTANGERO S}\@. \bibtitle{Optimal control
+  technique for many-body quantum dynamics}\bibmark{[J]}\@.
+  \bibjournal{Physical review letters}\@, \bibyear{2011}\@,
+  \bibvolume{106}\bibnumber{(19)}\thinspace{}\textnormal{:
+  }\bibpages{190501}\@.
+
+\bibitem{caneva2011chopped}
+\bibauthor{CANEVA T\@, CALARCO T\@, MONTANGERO S}\@. \bibtitle{Chopped
+  random-basis quantum optimization}\bibmark{[J]}\@. \bibjournal{Physical
+  Review A}\@, \bibyear{2011}\@,
+  \bibvolume{84}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{022326}\@.
+
+\bibitem{glaser2015training}
+\bibauthor{GLASER S~J\@, BOSCAIN U\@, CALARCO T, et~al}\@. \bibtitle{Training
+  Schr{\"o}dinger’s cat: quantum optimal control}\bibmark{[J]}\@.
+  \bibjournal{The European Physical Journal D}\@, \bibyear{2015}\@,
+  \bibvolume{69}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{279}\@.
+
+\bibitem{egger2014adaptive}
+\bibauthor{EGGER D~J\@, WILHELM F~K}\@. \bibtitle{Adaptive hybrid optimal
+  quantum control for imprecisely characterized systems}\bibmark{[J]}\@.
+  \bibjournal{Physical review letters}\@, \bibyear{2014}\@,
+  \bibvolume{112}\bibnumber{(24)}\thinspace{}\textnormal{:
+  }\bibpages{240503}\@.
+
+\bibitem{egger2013optimized}
+\bibauthor{EGGER D~J\@, WILHELM F~K}\@. \bibtitle{Optimized controlled-z gates
+  for two superconducting qubits coupled through a resonator}\bibmark{[J]}\@.
+  \bibjournal{Superconductor Science and Technology}\@, \bibyear{2013}\@,
+  \bibvolume{27}\bibnumber{(1)}\thinspace{}\textnormal{: }\bibpages{014001}\@.
+
+\bibitem{hong2018implementing}
+\bibauthor{HONG Z-P\@, LIU B-J\@, CAI J-Q, et~al}\@. \bibtitle{Implementing
+  universal nonadiabatic holonomic quantum gates with
+  transmons}\bibmark{[J]}\@. \bibjournal{Physical Review A}\@,
+  \bibyear{2018}\@, \bibvolume{97}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{022332}\@.
+
+\bibitem{egger2019entanglement}
+\bibauthor{EGGER D~J\@, GANZHORN M\@, SALIS G, et~al}\@. \bibtitle{Entanglement
+  generation in superconducting qubits using holonomic
+  operations}\bibmark{[J]}\@. \bibjournal{Physical Review Applied}\@,
+  \bibyear{2019}\@, \bibvolume{11}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{014017}\@.
+
+\bibitem{Sirois2015}
+\bibauthor{SIROIS A~J\@, CASTELLANOS-BELTRAN M~A\@, DEFEO M~P, et~al}\@.
+  \bibtitle{Coherent-state storage and retrieval between superconducting
+  cavities using parametric frequency conversion}\bibmark{[J/OL]}\@.
+  \bibjournal{Appl. Phys Lett.}\@, \bibyear{2015}\@,
+  \bibvolume{106}\bibnumber{(17)}\thinspace{}\textnormal{:
+  }\bibpages{172603}\@. \newline\url{https://doi.org/10.1063/1.4919759}\@.
+
+\bibitem{owens2018quarter}
+\bibauthor{OWENS C\@, LACHAPELLE A\@, SAXBERG B, et~al}\@.
+  \bibtitle{Quarter-flux Hofstadter lattice in a qubit-compatible microwave
+  cavity array}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. A}\@,
+  \bibyear{2018}\@, \bibvolume{97}\thinspace{}\textnormal{:
+  }\bibpages{013818}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevA.97.013818}\@.
+
+\bibitem{anderson2016engineering}
+\bibauthor{ANDERSON B~M\@, MA R\@, OWENS C, et~al}\@. \bibtitle{Engineering
+  topological many-body materials in microwave cavity arrays}\bibmark{[J]}\@.
+  \bibjournal{Physical Review X}\@, \bibyear{2016}\@,
+  \bibvolume{6}\bibnumber{(4)}\thinspace{}\textnormal{: }\bibpages{041043}\@.
+
+\bibitem{cai2018non}
+\bibauthor{CAI J-Q\@, XUE Z-Y\@, GONG M, et~al}\@. \bibtitle{Non-Hermitian
+  topological microwave photonics with synthetic non-Abelian
+  gauges}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1812.02610}\@,
+  \bibyear{2018}\@.
+
+\bibitem{rechtsman2013strain}
+\bibauthor{RECHTSMAN M~C\@, ZEUNER J~M\@, T{\"U}NNERMANN A, et~al}\@.
+  \bibtitle{Strain-induced pseudomagnetic field and photonic Landau levels in
+  dielectric structures}\bibmark{[J]}\@. \bibjournal{Nature Photonics}\@,
+  \bibyear{2013}\@, \bibvolume{7}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{153}\@.
+
+\bibitem{rechtsman2013photonic}
+\bibauthor{RECHTSMAN M~C\@, ZEUNER J~M\@, PLOTNIK Y, et~al}\@.
+  \bibtitle{Photonic Floquet topological insulators}\bibmark{[J]}\@.
+  \bibjournal{Nature}\@, \bibyear{2013}\@,
+  \bibvolume{496}\bibnumber{(7444)}\thinspace{}\textnormal{: }\bibpages{196}\@.
+
+\bibitem{rechtsman2013topological}
+\bibauthor{RECHTSMAN M~C\@, PLOTNIK Y\@, ZEUNER J~M, et~al}\@.
+  \bibtitle{Topological creation and destruction of edge states in photonic
+  graphene}\bibmark{[J]}\@. \bibjournal{Physical review letters}\@,
+  \bibyear{2013}\@, \bibvolume{111}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{103901}\@.
+
+\bibitem{hafezi2011robust}
+\bibauthor{HAFEZI M\@, DEMLER E~A\@, LUKIN M~D, et~al}\@. \bibtitle{Robust
+  optical delay lines with topological protection}\bibmark{[J]}\@.
+  \bibjournal{Nature Physics}\@, \bibyear{2011}\@,
+  \bibvolume{7}\bibnumber{(11)}\thinspace{}\textnormal{: }\bibpages{907}\@.
+
+\bibitem{hafezi2013imaging}
+\bibauthor{HAFEZI M\@, MITTAL S\@, FAN J, et~al}\@. \bibtitle{Imaging
+  topological edge states in silicon photonics}\bibmark{[J]}\@.
+  \bibjournal{Nature Photonics}\@, \bibyear{2013}\@,
+  \bibvolume{7}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{1001}\@.
+
+\bibitem{Koch2010}
+\bibauthor{KOCH J\@, HOUCK A~A\@, HUR K~L, et~al}\@.
+  \bibtitle{Time-reversal-symmetry breaking in circuit-QED-based photon
+  lattices}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. A}\@, \bibyear{2010}\@,
+  \bibvolume{82}\thinspace{}\textnormal{: }\bibpages{043811}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevA.82.043811}\@.
+
+\bibitem{mittal2016measurement}
+\bibauthor{MITTAL S\@, GANESHAN S\@, FAN J, et~al}\@. \bibtitle{Measurement of
+  topological invariants in a 2D photonic system}\bibmark{[J]}\@.
+  \bibjournal{Nature Photonics}\@, \bibyear{2016}\@,
+  \bibvolume{10}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{180}\@.
+
+\bibitem{Wang2016}
+\bibauthor{WANG Y-P\@, YANG W-L\@, HU Y, et~al}\@. \bibtitle{{Detecting
+  topological phases of microwave photons in a circuit quantum electrodynamics
+  lattice}}\bibmark{[J/OL]}\@. \bibjournal{npj Quantum Inf.}\@,
+  \bibyear{2016}\@, \bibvolume{2}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{16015}\@.
+  \newline\url{http://www.nature.com/articles/npjqi201615}\@.
+
+\bibitem{scaffidi2014exact}
+\bibauthor{SCAFFIDI T\@, SIMON S~H}\@. \bibtitle{Exact solutions of fractional
+  Chern insulators: Interacting particles in the Hofstadter model at finite
+  size}\bibmark{[J]}\@. \bibjournal{Physical Review B}\@, \bibyear{2014}\@,
+  \bibvolume{90}\bibnumber{(11)}\thinspace{}\textnormal{: }\bibpages{115132}\@.
+
+\bibitem{hafezi2015chemical}
+\bibauthor{HAFEZI M\@, ADHIKARI P\@, TAYLOR J}\@. \bibtitle{Chemical potential
+  for light by parametric coupling}\bibmark{[J]}\@. \bibjournal{Physical Review
+  B}\@, \bibyear{2015}\@,
+  \bibvolume{92}\bibnumber{(17)}\thinspace{}\textnormal{: }\bibpages{174305}\@.
+
+\bibitem{zhu2013topological}
+\bibauthor{ZHU S-L\@, WANG Z-D\@, CHAN Y-H, et~al}\@. \bibtitle{Topological
+  Bose-Mott insulators in a one-dimensional optical
+  superlattice}\bibmark{[J]}\@. \bibjournal{Physical review letters}\@,
+  \bibyear{2013}\@, \bibvolume{110}\bibnumber{(7)}\thinspace{}\textnormal{:
+  }\bibpages{075303}\@.
+
+\bibitem{rousseau2006exact}
+\bibauthor{ROUSSEAU V\@, AROVAS D\@, RIGOL M, et~al}\@. \bibtitle{Exact study
+  of the one-dimensional boson Hubbard model with a superlattice
+  potential}\bibmark{[J]}\@. \bibjournal{Physical Review B}\@,
+  \bibyear{2006}\@, \bibvolume{73}\bibnumber{(17)}\thinspace{}\textnormal{:
+  }\bibpages{174516}\@.
+
+\bibitem{lang2012edge}
+\bibauthor{LANG L-J\@, CAI X\@, CHEN S}\@. \bibtitle{Edge states and
+  topological phases in one-dimensional optical superlattices}\bibmark{[J]}\@.
+  \bibjournal{Physical review letters}\@, \bibyear{2012}\@,
+  \bibvolume{108}\bibnumber{(22)}\thinspace{}\textnormal{:
+  }\bibpages{220401}\@.
+
+\bibitem{Roushan2017}
+\bibauthor{ROUSHAN P\@, NEILL C\@, TANGPANITANON J, et~al}\@.
+  \bibtitle{Spectroscopic signatures of localization with interacting photons
+  in superconducting qubits}\bibmark{[J/OL]}\@. \bibjournal{Science}\@,
+  \bibyear{2017}\@, \bibvolume{358}\bibnumber{(6367)}\thinspace{}\textnormal{:
+  }\bibpages{1175\thinspace{}\textnormal{--}\thinspace{}1179}\@.
+  \newline\url{http://science.sciencemag.org/content/358/6367/1175}\@.
+
+\bibitem{harper1955general}
+\bibauthor{HARPER P~G}\@. \bibtitle{The general motion of conduction electrons
+  in a uniform magnetic field, with application to the diamagnetism of
+  metals}\bibmark{[J]}\@. \bibjournal{Proceedings of the Physical Society.
+  Section A}\@, \bibyear{1955}\@,
+  \bibvolume{68}\bibnumber{(10)}\thinspace{}\textnormal{: }\bibpages{879}\@.
+
+\bibitem{aubry1980analyticity}
+\bibauthor{AUBRY S\@, ANDR{\'E} G}\@. \bibtitle{Analyticity breaking and
+  Anderson localization in incommensurate lattices}\bibmark{[J]}\@.
+  \bibjournal{Ann. Israel Phys. Soc}\@, \bibyear{1980}\@,
+  \bibvolume{3}\bibnumber{(133)}\thinspace{}\textnormal{: }\bibpages{18}\@.
+
+\bibitem{recati2002holonomic}
+\bibauthor{RECATI A\@, CALARCO T\@, ZANARDI P, et~al}\@. \bibtitle{Holonomic
+  quantum computation with neutral atoms}\bibmark{[J]}\@. \bibjournal{Physical
+  Review A}\@, \bibyear{2002}\@,
+  \bibvolume{66}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{032309}\@.
+
+\bibitem{duan2001geometric}
+\bibauthor{DUAN L-M\@, CIRAC J~I\@, ZOLLER P}\@. \bibtitle{Geometric
+  manipulation of trapped ions for quantum computation}\bibmark{[J]}\@.
+  \bibjournal{Science}\@, \bibyear{2001}\@,
+  \bibvolume{292}\bibnumber{(5522)}\thinspace{}\textnormal{:
+  }\bibpages{1695\thinspace{}\textnormal{--}\thinspace{}1697}\@.
+
+\bibitem{sjoqvist2012non}
+\bibauthor{SJ{\"O}QVIST E\@, TONG D-M\@, ANDERSSON L~M, et~al}\@.
+  \bibtitle{Non-adiabatic holonomic quantum computation}\bibmark{[J]}\@.
+  \bibjournal{New Journal of Physics}\@, \bibyear{2012}\@,
+  \bibvolume{14}\bibnumber{(10)}\thinspace{}\textnormal{: }\bibpages{103035}\@.
+
+\bibitem{zanardi1999holonomic}
+\bibauthor{ZANARDI P\@, RASETTI M}\@. \bibtitle{Holonomic quantum
+  computation}\bibmark{[J]}\@. \bibjournal{Physics Letters A}\@,
+  \bibyear{1999}\@, \bibvolume{264}\bibnumber{(2-3)}\thinspace{}\textnormal{:
+  }\bibpages{94\thinspace{}\textnormal{--}\thinspace{}99}\@.
+
+\bibitem{song201710}
+\bibauthor{SONG C\@, XU K\@, LIU W, et~al}\@. \bibtitle{10-Qubit Entanglement
+  and Parallel Logic Operations with a Superconducting
+  Circuit}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2017}\@, \bibvolume{119}\thinspace{}\textnormal{:
+  }\bibpages{180511}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.119.180511}\@.
+
+\bibitem{clarke2008superconducting}
+\bibauthor{CLARKE J\@, WILHELM F~K}\@. \bibtitle{Superconducting quantum
+  bits}\bibmark{[J]}\@. \bibjournal{Nature}\@, \bibyear{2008}\@,
+  \bibvolume{453}\bibnumber{(7198)}\thinspace{}\textnormal{:
+  }\bibpages{1031}\@.
+
+\bibitem{Georgescu2014}
+\bibauthor{GEORGESCU I~M\@, ASHHAB S\@, NORI F}\@. \bibtitle{Quantum
+  simulation}\bibmark{[J/OL]}\@. \bibjournal{Rev. Mod. Phys.}\@,
+  \bibyear{2014}\@, \bibvolume{86}\thinspace{}\textnormal{:
+  }\bibpages{153\thinspace{}\textnormal{--}\thinspace{}185}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/RevModPhys.86.153}\@.
+
+\bibitem{feynman1982simulating}
+\bibauthor{FEYNMAN R~P}\@. \bibtitle{Simulating physics with
+  computers}\bibmark{[J]}\@. \bibjournal{International journal of theoretical
+  physics}\@, \bibyear{1982}\@,
+  \bibvolume{21}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{467\thinspace{}\textnormal{--}\thinspace{}488}\@.
+
+\bibitem{lloyd1996universal}
+\bibauthor{LLOYD S}\@. \bibtitle{Universal quantum simulators}\bibmark{[J]}\@.
+  \bibjournal{Science}\@, \bibyear{1996}\thinspace{}\textnormal{:
+  }\bibpages{1073\thinspace{}\textnormal{--}\thinspace{}1078}\@.
+
+\bibitem{harrow2017quantum}
+\bibauthor{HARROW A~W\@, MONTANARO A}\@. \bibtitle{Quantum computational
+  supremacy}\bibmark{[J/OL]}\@. \bibjournal{Nature}\@, \bibyear{2017}\@,
+  \bibvolume{549}\bibnumber{(7671)}\thinspace{}\textnormal{: }\bibpages{203}\@.
+  \newline\url{https://doi.org/10.1038/nature23458}\@.
+
+\bibitem{inguscio2008ultra}
+\bibauthor{INGUSCIO M\@, KETTERLE W\@, SALOMON C}\@. \bibbooktitle{Ultra-cold
+  Fermi gases\thinspace{}\textnormal{: }Vol~164}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{IOS press}\@,
+  \bibyear{2008}\@.
+
+\bibitem{lee2006doping}
+\bibauthor{LEE P~A\@, NAGAOSA N\@, WEN X-G}\@. \bibtitle{Doping a Mott
+  insulator: Physics of high-temperature superconductivity}\bibmark{[J]}\@.
+  \bibjournal{Reviews of modern physics}\@, \bibyear{2006}\@,
+  \bibvolume{78}\bibnumber{(1)}\thinspace{}\textnormal{: }\bibpages{17}\@.
+
+\bibitem{giamarchi2003quantum}
+\bibauthor{GIAMARCHI T}\@. \bibbooktitle{Quantum physics in one
+  dimension\thinspace{}\textnormal{: }Vol~121}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Clarendon
+  press}\@, \bibyear{2003}\@.
+
+\bibitem{sachdev2007quantum}
+\bibauthor{SACHDEV S}\@. \bibtitle{Quantum phase transitions}\bibmark{[J]}\@.
+  \bibjournal{Handbook of Magnetism and Advanced Magnetic Materials}\@,
+  \bibyear{2007}\@.
+
+\bibitem{zeng2015quantum}
+\bibauthor{ZENG B}\@. \bibbooktitle{Quantum Information Meets Quantum Matter:
+  From Quantum Entanglement to Topological Phases of Many-Body
+  Systems}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Springer}\@, \bibyear{2015}\@.
+
+\bibitem{childress2006coherent}
+\bibauthor{CHILDRESS L\@, DUTT M~V~G\@, TAYLOR J~M, et~al}\@.
+  \bibtitle{{Coherent dynamics of coupled electron and nuclear spin qubits in
+  diamond}}\bibmark{[J]}\@. \bibjournal{Science (80-. ).}\@, \bibyear{2006}\@,
+  \bibvolume{314}\bibnumber{(5797)}\thinspace{}\textnormal{:
+  }\bibpages{281\thinspace{}\textnormal{--}\thinspace{}285}\@.
+
+\bibitem{leibfried2003quantum}
+\bibauthor{LEIBFRIED D\@, BLATT R\@, MONROE C, et~al}\@. \bibtitle{Quantum
+  dynamics of single trapped ions}\bibmark{[J]}\@. \bibjournal{Reviews of
+  Modern Physics}\@, \bibyear{2003}\@,
+  \bibvolume{75}\bibnumber{(1)}\thinspace{}\textnormal{: }\bibpages{281}\@.
+
+\bibitem{demille2002quantum}
+\bibauthor{DEMILLE D}\@. \bibtitle{{Quantum computation with trapped polar
+  molecules}}\bibmark{[J]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2002}\@, \bibvolume{88}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{67901}\@.
+
+\bibitem{imamog1999quantum}
+\bibauthor{IMAMOG A\@, AWSCHALOM D~D\@, BURKARD G, et~al}\@. \bibtitle{{Quantum
+  information processing using quantum dot spins and cavity
+  QED}}\bibmark{[J]}\@. \bibjournal{Phys. Rev. Lett.}\@, \bibyear{1999}\@,
+  \bibvolume{83}\bibnumber{(20)}\thinspace{}\textnormal{: }\bibpages{4204}\@.
+
+\bibitem{o2009photonic}
+\bibauthor{O'BRIEN J~L\@, FURUSAWA A\@, VU{\v{C}}KOVI{\'C} J}\@.
+  \bibtitle{Photonic quantum technologies}\bibmark{[J]}\@. \bibjournal{Nature
+  Photonics}\@, \bibyear{2009}\@,
+  \bibvolume{3}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{687}\@.
+
+\bibitem{knill2001scheme}
+\bibauthor{KNILL E\@, LAFLAMME R\@, MILBURN G~J}\@. \bibtitle{A scheme for
+  efficient quantum computation with linear optics}\bibmark{[J]}\@.
+  \bibjournal{nature}\@, \bibyear{2001}\@,
+  \bibvolume{409}\bibnumber{(6816)}\thinspace{}\textnormal{: }\bibpages{46}\@.
+
+\bibitem{hanson2008coherent}
+\bibauthor{HANSON R\@, AWSCHALOM D~D}\@. \bibtitle{{Coherent manipulation of
+  single spins in semiconductors}}\bibmark{[J]}\@. \bibjournal{Nature}\@,
+  \bibyear{2008}\@, \bibvolume{453}\bibnumber{(7198)}\thinspace{}\textnormal{:
+  }\bibpages{1043}\@.
+
+\bibitem{bloch2008many}
+\bibauthor{BLOCH I\@, DALIBARD J\@, ZWERGER W}\@. \bibtitle{Many-body physics
+  with ultracold gases}\bibmark{[J]}\@. \bibjournal{Reviews of modern
+  physics}\@, \bibyear{2008}\@,
+  \bibvolume{80}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{885}\@.
+
+\bibitem{giovannetti2006quantum}
+\bibauthor{GIOVANNETTI V\@, LLOYD S\@, MACCONE L}\@. \bibtitle{{Quantum
+  metrology}}\bibmark{[J]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2006}\@, \bibvolume{96}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{10401}\@.
+
+\bibitem{degen2017quantum}
+\bibauthor{DEGEN C~L\@, REINHARD F\@, CAPPELLARO P}\@. \bibtitle{Quantum
+  sensing}\bibmark{[J]}\@. \bibjournal{Reviews of modern physics}\@,
+  \bibyear{2017}\@, \bibvolume{89}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{035002}\@.
+
+\bibitem{giovannetti2011advances}
+\bibauthor{GIOVANNETTI V\@, LLOYD S\@, MACCONE L}\@. \bibtitle{Advances in
+  quantum metrology}\bibmark{[J]}\@. \bibjournal{Nature photonics}\@,
+  \bibyear{2011}\@, \bibvolume{5}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{222}\@.
+
+\bibitem{lanyon2010towards}
+\bibauthor{LANYON B~P\@, WHITFIELD J~D\@, GILLETT G~G, et~al}\@.
+  \bibtitle{Towards quantum chemistry on a quantum computer}\bibmark{[J]}\@.
+  \bibjournal{Nature chemistry}\@, \bibyear{2010}\@,
+  \bibvolume{2}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{106}\@.
+
+\bibitem{wu2016diamond}
+\bibauthor{WU Y\@, JELEZKO F\@, PLENIO M~B, et~al}\@. \bibtitle{Diamond quantum
+  devices in biology}\bibmark{[J]}\@. \bibjournal{Angewandte Chemie
+  International Edition}\@, \bibyear{2016}\@,
+  \bibvolume{55}\bibnumber{(23)}\thinspace{}\textnormal{:
+  }\bibpages{6586\thinspace{}\textnormal{--}\thinspace{}6598}\@.
+
+\bibitem{bailey2004quantum}
+\bibauthor{BAILEY R~E\@, SMITH A~M\@, NIE S}\@. \bibtitle{Quantum dots in
+  biology and medicine}\bibmark{[J]}\@. \bibjournal{Physica E: Low-dimensional
+  Systems and Nanostructures}\@, \bibyear{2004}\@,
+  \bibvolume{25}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}12}\@.
+
+\bibitem{laughlin1981quantized}
+\bibauthor{LAUGHLIN R~B}\@. \bibtitle{Quantized Hall conductivity in two
+  dimensions}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. B}\@, \bibyear{1981}\@,
+  \bibvolume{23}\thinspace{}\textnormal{:
+  }\bibpages{5632\thinspace{}\textnormal{--}\thinspace{}5633}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.23.5632}\@.
+
+\bibitem{fu2007topological}
+\bibauthor{FU L\@, KANE C~L\@, MELE E~J}\@. \bibtitle{Topological insulators in
+  three dimensions}\bibmark{[J]}\@. \bibjournal{Physical review letters}\@,
+  \bibyear{2007}\@, \bibvolume{98}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{106803}\@.
+
+\bibitem{Ando2013topological}
+\bibauthor{ANDO Y}\@. \bibtitle{Topological Insulator
+  Materials}\bibmark{[J/OL]}\@. \bibjournal{J. Phys. Soc. Jpn}\@,
+  \bibyear{2013}\@, \bibvolume{82}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{102001}\@. \newline\url{https://doi.org/10.7566/JPSJ.82.102001}\@.
+
+\bibitem{ando2015topological}
+\bibauthor{ANDO Y\@, FU L}\@. \bibtitle{Topological Crystalline Insulators and
+  Topological Superconductors: From Concepts to Materials}\bibmark{[J]}\@.
+  \bibjournal{Annu. Rev. Conden. Ma. Phys.}\@, \bibyear{2015}\@,
+  \bibvolume{6}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{361\thinspace{}\textnormal{--}\thinspace{}381}\@.
+
+\bibitem{yuan2014generation}
+\bibauthor{YUAN H\@, WANG X\@, LIAN B, et~al}\@. \bibtitle{Generation and
+  electric control of spin--valley-coupled circular photogalvanic current in
+  WSe 2}\bibmark{[J/OL]}\@. \bibjournal{Nat. nanotechnology}\@,
+  \bibyear{2014}\@, \bibvolume{9}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{851}\@. \newline\url{https://doi.org/10.1038/nnano.2014.183}\@.
+
+\bibitem{murakami2003dissipationless}
+\bibauthor{MURAKAMI S\@, NAGAOSA N\@, ZHANG S-C}\@. \bibtitle{Dissipationless
+  Quantum Spin Current at Room Temperature}\bibmark{[J/OL]}\@.
+  \bibjournal{Science}\@, \bibyear{2003}\@,
+  \bibvolume{301}\bibnumber{(5638)}\thinspace{}\textnormal{:
+  }\bibpages{1348\thinspace{}\textnormal{--}\thinspace{}1351}\@.
+  \newline\url{http://science.sciencemag.org/content/301/5638/1348}\@.
+
+\bibitem{koralek2009emergence}
+\bibauthor{KORALEK J~D\@, WEBER C~P\@, ORENSTEIN J, et~al}\@.
+  \bibtitle{Emergence of the persistent spin helix in semiconductor quantum
+  wells}\bibmark{[J/OL]}\@. \bibjournal{Nature}\@, \bibyear{2009}\@,
+  \bibvolume{458}\bibnumber{(7238)}\thinspace{}\textnormal{: }\bibpages{610}\@.
+  \newline\url{https://doi.org/10.1038/nature07871}\@.
+
+\bibitem{sau2010generic}
+\bibauthor{SAU J~D\@, LUTCHYN R~M\@, TEWARI S, et~al}\@. \bibtitle{Generic New
+  Platform for Topological Quantum Computation Using Semiconductor
+  Heterostructures}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2010}\@, \bibvolume{104}\thinspace{}\textnormal{:
+  }\bibpages{040502}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.104.040502}\@.
+
+\bibitem{Laughlin1983}
+\bibauthor{LAUGHLIN R~B}\@. \bibtitle{Anomalous Quantum Hall Effect: An
+  Incompressible Quantum Fluid with Fractionally Charged
+  Excitations}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{1983}\@, \bibvolume{50}\thinspace{}\textnormal{:
+  }\bibpages{1395\thinspace{}\textnormal{--}\thinspace{}1398}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.50.1395}\@.
+
+\bibitem{zhang2013topological}
+\bibauthor{ZHANG L\@, REN J\@, WANG J-S, et~al}\@. \bibtitle{Topological magnon
+  insulator in insulating ferromagnet}\bibmark{[J/OL]}\@. \bibjournal{Phys.
+  Rev. B}\@, \bibyear{2013}\@, \bibvolume{87}\thinspace{}\textnormal{:
+  }\bibpages{144101}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.87.144101}\@.
+
+\bibitem{mochizuki2014thermally}
+\bibauthor{MOCHIZUKI M\@, YU X\@, SEKI S, et~al}\@. \bibtitle{Thermally driven
+  ratchet motion of a skyrmion microcrystal and topological magnon Hall
+  effect}\bibmark{[J/OL]}\@. \bibjournal{Nat. Mat.}\@, \bibyear{2014}\@,
+  \bibvolume{13}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{241}\@.
+  \newline\url{https://doi.org/10.1038/nmat3862}\@.
+
+\bibitem{Whittaker2018}
+\bibauthor{WHITTAKER C~E\@, CANCELLIERI E\@, WALKER P~M, et~al}\@.
+  \bibtitle{Exciton Polaritons in a Two-Dimensional Lieb Lattice with
+  Spin-Orbit Coupling}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2018}\@, \bibvolume{120}\thinspace{}\textnormal{:
+  }\bibpages{097401}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.120.097401}\@.
+
+\bibitem{Ningyuan2015}
+\bibauthor{NINGYUAN J\@, OWENS C\@, SOMMER A, et~al}\@. \bibtitle{Time- and
+  Site-Resolved Dynamics in a Topological Circuit}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. X}\@, \bibyear{2015}\@,
+  \bibvolume{5}\thinspace{}\textnormal{: }\bibpages{021031}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevX.5.021031}\@.
+
+\bibitem{Zhu2018}
+\bibauthor{ZHU W\@, HOU S\@, LONG Y, et~al}\@. \bibtitle{Simulating quantum
+  spin Hall effect in the topological Lieb lattice of a linear circuit
+  network}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. B}\@, \bibyear{2018}\@,
+  \bibvolume{97}\thinspace{}\textnormal{: }\bibpages{075310}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.97.075310}\@.
+
+\bibitem{Ashhab2014}
+\bibauthor{ASHHAB S}\@. \bibtitle{{Simulating systems of itinerant
+  spin-carrying particles using arrays of superconducting qubits and
+  resonators}}\bibmark{[J]}\@. \bibjournal{New J. Phys.}\@, \bibyear{2014}\@,
+  \bibvolume{16}\@.
+
+\bibitem{Sala2015a}
+\bibauthor{SALA V~G\@, SOLNYSHKOV D~D\@, CARUSOTTO I, et~al}\@.
+  \bibtitle{{Spin-Orbit coupling for photons and polaritons in
+  microstructures}}\bibmark{[J]}\@. \bibjournal{Phys. Rev. X}\@,
+  \bibyear{2015}\@, \bibvolume{5}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}9}\@.
+
+\bibitem{hsieh2009observation}
+\bibauthor{HSIEH D\@, XIA Y\@, WRAY L, et~al}\@. \bibtitle{Observation of
+  Unconventional Quantum Spin Textures in Topological
+  Insulators}\bibmark{[J/OL]}\@. \bibjournal{Science}\@, \bibyear{2009}\@,
+  \bibvolume{323}\bibnumber{(5916)}\thinspace{}\textnormal{:
+  }\bibpages{919\thinspace{}\textnormal{--}\thinspace{}922}\@.
+  \newline\url{http://science.sciencemag.org/content/323/5916/919}\@.
+
+\bibitem{imhof2018topolectrical}
+\bibauthor{IMHOF S\@, BERGER C\@, BAYER F, et~al}\@.
+  \bibtitle{Topolectrical-circuit realization of topological corner
+  modes}\bibmark{[J/OL]}\@. \bibjournal{Nat. Phys.}\@, \bibyear{2018}\@,
+  \bibvolume{14}\bibnumber{(9)}\thinspace{}\textnormal{: }\bibpages{925}\@.
+  \newline\url{https://doi.org/10.1038/s41567-018-0246-1}\@.
+
+\bibitem{aidelsburger2015measuring}
+\bibauthor{AIDELSBURGER M\@, LOHSE M\@, SCHWEIZER C, et~al}\@.
+  \bibtitle{Measuring the Chern number of Hofstadter bands with ultracold
+  bosonic atoms}\bibmark{[J/OL]}\@. \bibjournal{Nat. Phys.}\@,
+  \bibyear{2015}\@, \bibvolume{11}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{162}\@. \newline\url{https://doi.org/10.1038/nphys3171}\@.
+
+\bibitem{Gong2018topo}
+\bibauthor{GONG Z\@, ASHIDA Y\@, KAWABATA K, et~al}\@. \bibtitle{Topological
+  Phases of Non-Hermitian Systems}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev.
+  X}\@, \bibyear{2018}\@, \bibvolume{8}\thinspace{}\textnormal{:
+  }\bibpages{031079}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevX.8.031079}\@.
+
+\bibitem{malzard2015topologically}
+\bibauthor{MALZARD S\@, POLI C\@, SCHOMERUS H}\@. \bibtitle{Topologically
+  Protected Defect States in Open Photonic Systems with Non-Hermitian
+  Charge-Conjugation and Parity-Time Symmetry}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. Lett.}\@, \bibyear{2015}\@,
+  \bibvolume{115}\thinspace{}\textnormal{: }\bibpages{200402}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.115.200402}\@.
+
+\bibitem{lourencco2018self}
+\bibauthor{LOUREN{\c{C}}O-MARTINS H\@, DAS P\@, TIZEI L~H, et~al}\@.
+  \bibtitle{Self-hybridization within non-Hermitian localized plasmonic
+  systems}\bibmark{[J/OL]}\@. \bibjournal{Nat. Phys.}\@,
+  \bibyear{2018}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{360}\@.
+  \newline\url{https://doi.org/10.1038/s41567-017-0023-6}\@.
+
+\bibitem{esaki2011edge}
+\bibauthor{ESAKI K\@, SATO M\@, HASEBE K, et~al}\@. \bibtitle{Edge states and
+  topological phases in non-Hermitian systems}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. B}\@, \bibyear{2011}\@,
+  \bibvolume{84}\thinspace{}\textnormal{: }\bibpages{205128}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.84.205128}\@.
+
+\bibitem{Shen2018}
+\bibauthor{SHEN H\@, ZHEN B\@, FU L}\@. \bibtitle{Topological Band Theory for
+  Non-Hermitian Hamiltonians}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev.
+  Lett.}\@, \bibyear{2018}\@, \bibvolume{120}\thinspace{}\textnormal{:
+  }\bibpages{146402}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.120.146402}\@.
+
+\bibitem{Osterloh2005}
+\bibauthor{OSTERLOH K\@, BAIG M\@, SANTOS L, et~al}\@. \bibtitle{Cold Atoms in
+  Non-Abelian Gauge Potentials: From the Hofstadter "Moth" to Lattice Gauge
+  Theory}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@, \bibyear{2005}\@,
+  \bibvolume{95}\thinspace{}\textnormal{: }\bibpages{010403}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.95.010403}\@.
+
+\bibitem{Goldman2009}
+\bibauthor{GOLDMAN N\@, KUBASIAK A\@, BERMUDEZ A, et~al}\@.
+  \bibtitle{Non-Abelian Optical Lattices: Anomalous Quantum Hall Effect and
+  Dirac Fermions}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2009}\@, \bibvolume{103}\thinspace{}\textnormal{:
+  }\bibpages{035301}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.103.035301}\@.
+
+\bibitem{zeuner2015observation}
+\bibauthor{ZEUNER J~M\@, RECHTSMAN M~C\@, PLOTNIK Y, et~al}\@.
+  \bibtitle{Observation of a Topological Transition in the Bulk of a
+  Non-Hermitian System}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2015}\@, \bibvolume{115}\thinspace{}\textnormal{:
+  }\bibpages{040402}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.115.040402}\@.
+
+\bibitem{leykam2017edge}
+\bibauthor{LEYKAM D\@, BLIOKH K~Y\@, HUANG C, et~al}\@. \bibtitle{Edge Modes,
+  Degeneracies, and Topological Numbers in Non-Hermitian
+  Systems}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2017}\@, \bibvolume{118}\thinspace{}\textnormal{:
+  }\bibpages{040401}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.118.040401}\@.
+
+\bibitem{lee2016anomalous}
+\bibauthor{LEE T~E}\@. \bibtitle{Anomalous Edge State in a Non-Hermitian
+  Lattice}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2016}\@, \bibvolume{116}\thinspace{}\textnormal{:
+  }\bibpages{133903}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.116.133903}\@.
+
+\bibitem{Wu2015}
+\bibauthor{WU Y-H\@, JAIN J~K\@, SUN K}\@. \bibtitle{Fractional topological
+  phases in generalized Hofstadter bands with arbitrary Chern
+  numbers}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. B}\@, \bibyear{2015}\@,
+  \bibvolume{91}\thinspace{}\textnormal{: }\bibpages{041119}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.91.041119}\@.
+
+\bibitem{Wu2013}
+\bibauthor{WU Y-H\@, JAIN J~K}\@. \bibtitle{Quantum Hall effect of
+  two-component bosons at fractional and integral fillings}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. B}\@, \bibyear{2013}\@,
+  \bibvolume{87}\thinspace{}\textnormal{: }\bibpages{245123}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.87.245123}\@.
+
+\bibitem{feng2017non}
+\bibauthor{FENG L\@, EL-GANAINY R\@, GE L}\@. \bibtitle{Non-Hermitian photonics
+  based on parity--time symmetry}\bibmark{[J/OL]}\@. \bibjournal{Nat.
+  Photonics}\@, \bibyear{2017}\@,
+  \bibvolume{11}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{752}\@.
+  \newline\url{https://doi.org/10.1038/s41566-017-0031-1}\@.
+
+\bibitem{Yao2018}
+\bibauthor{YAO S\@, WANG Z}\@. \bibtitle{Edge States and Topological Invariants
+  of Non-Hermitian Systems}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2018}\@, \bibvolume{121}\thinspace{}\textnormal{:
+  }\bibpages{086803}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.121.086803}\@.
+
+\bibitem{Yao2018a}
+\bibauthor{YAO S\@, SONG F\@, WANG Z}\@. \bibtitle{Non-Hermitian Chern
+  Bands}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@, \bibyear{2018}\@,
+  \bibvolume{121}\thinspace{}\textnormal{: }\bibpages{136802}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.121.136802}\@.
+
+\bibitem{rammal1985landau}
+\bibauthor{RAMMAL R}\@. \bibtitle{Landau level spectrum of Bloch electrons in a
+  honeycomb lattice}\bibmark{[J]}\@. \bibjournal{Journal de Physique}\@,
+  \bibyear{1985}\@, \bibvolume{46}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{1345\thinspace{}\textnormal{--}\thinspace{}1354}\@.
+
+\bibitem{Galitski2013}
+\bibauthor{GALITSKI V\@, SPIELMAN I~B}\@. \bibtitle{{Spin–orbit coupling in
+  quantum gases}}\bibmark{[J/OL]}\@. \bibjournal{Nature}\@, \bibyear{2013}\@,
+  \bibvolume{494}\bibnumber{(7435)}\thinspace{}\textnormal{:
+  }\bibpages{49\thinspace{}\textnormal{--}\thinspace{}54}\@.
+  \newline\url{http://www.nature.com/doifinder/10.1038/nature11841}\@.
+
+\bibitem{claro1979magnetic}
+\bibauthor{CLARO F~H\@, WANNIER G~H}\@. \bibtitle{Magnetic subband structure of
+  electrons in hexagonal lattices}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev.
+  B}\@, \bibyear{1979}\@, \bibvolume{19}\thinspace{}\textnormal{:
+  }\bibpages{6068\thinspace{}\textnormal{--}\thinspace{}6074}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.19.6068}\@.
+
+\bibitem{hofstadter1976energy}
+\bibauthor{HOFSTADTER D~R}\@. \bibtitle{Energy levels and wave functions of
+  Bloch electrons in rational and irrational magnetic
+  fields}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. B}\@, \bibyear{1976}\@,
+  \bibvolume{14}\thinspace{}\textnormal{:
+  }\bibpages{2239\thinspace{}\textnormal{--}\thinspace{}2249}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.14.2239}\@.
+
+\bibitem{aidelsburger2013realization}
+\bibauthor{AIDELSBURGER M\@, ATALA M\@, LOHSE M, et~al}\@.
+  \bibtitle{Realization of the Hofstadter Hamiltonian with Ultracold Atoms in
+  Optical Lattices}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{2013}\@, \bibvolume{111}\thinspace{}\textnormal{:
+  }\bibpages{185301}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.111.185301}\@.
+
+\bibitem{wen1989winding}
+\bibauthor{WEN X\@, ZEE A}\@. \bibtitle{Winding number, family index theorem,
+  and electron hopping in a magnetic field}\bibmark{[J]}\@. \bibjournal{Nuclear
+  Physics B}\@, \bibyear{1989}\@,
+  \bibvolume{316}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{641\thinspace{}\textnormal{--}\thinspace{}662}\@.
+
+\bibitem{Paik2011}
+\bibauthor{PAIK H\@, SCHUSTER D~I\@, BISHOP L~S, et~al}\@.
+  \bibtitle{Observation of High Coherence in Josephson Junction Qubits Measured
+  in a Three-Dimensional Circuit QED Architecture}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. Lett.}\@, \bibyear{2011}\@,
+  \bibvolume{107}\thinspace{}\textnormal{: }\bibpages{240501}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.107.240501}\@.
+
+\bibitem{Girvin2013}
+\bibauthor{VLASTAKIS B\@, KIRCHMAIR G\@, LEGHTAS Z, et~al}\@.
+  \bibtitle{Deterministically Encoding Quantum Information Using 100-Photon
+  Schr{\"o}dinger Cat States}\bibmark{[J/OL]}\@. \bibjournal{Science}\@,
+  \bibyear{2013}\@, \bibvolume{342}\bibnumber{(6158)}\thinspace{}\textnormal{:
+  }\bibpages{607\thinspace{}\textnormal{--}\thinspace{}610}\@.
+  \newline\url{http://science.sciencemag.org/content/342/6158/607}\@.
+
+\bibitem{reagor2013reaching}
+\bibauthor{REAGOR M\@, PAIK H\@, CATELANI G, et~al}\@. \bibtitle{Reaching
+  10 ms single photon lifetimes for superconducting aluminum
+  cavities}\bibmark{[J/OL]}\@. \bibjournal{Appl. Phys. Lett}\@,
+  \bibyear{2013}\@, \bibvolume{102}\bibnumber{(19)}\thinspace{}\textnormal{:
+  }\bibpages{192604}\@. \newline\url{https://doi.org/10.1063/1.4807015}\@.
+
+\bibitem{Zakka-bajjani2011}
+\bibauthor{ZAKKA-BAJJANI E\@, NGUYEN F\@, LEE M, et~al}\@. \bibtitle{{Quantum
+  superposition of a single microwave photon in two different ' colour '
+  states}}\bibmark{[J/OL]}\@. \bibjournal{Nat. Phys.}\@, \bibyear{2011}\@,
+  \bibvolume{7}\bibnumber{(8)}\thinspace{}\textnormal{: }\bibpages{599}\@.
+  \newline\url{http://dx.doi.org/10.1038/nphys2035}\@.
+
+\bibitem{regensburger2012parity}
+\bibauthor{REGENSBURGER A\@, BERSCH C\@, MIRI M-A, et~al}\@.
+  \bibtitle{Parity--time synthetic photonic lattices}\bibmark{[J/OL]}\@.
+  \bibjournal{Nature}\@, \bibyear{2012}\@,
+  \bibvolume{488}\bibnumber{(7410)}\thinspace{}\textnormal{: }\bibpages{167}\@.
+  \newline\url{https://doi.org/10.1038/nature11298}\@.
+
+\bibitem{st2017lasing}
+\bibauthor{ST-JEAN P\@, GOBLOT V\@, GALOPIN E, et~al}\@. \bibtitle{Lasing in
+  topological edge states of a one-dimensional lattice}\bibmark{[J/OL]}\@.
+  \bibjournal{Nat. Photonics}\@, \bibyear{2017}\@,
+  \bibvolume{11}\bibnumber{(10)}\thinspace{}\textnormal{: }\bibpages{651}\@.
+  \newline\url{https://doi.org/10.1038/s41566-017-0006-2}\@.
+
+\bibitem{harari2018topological}
+\bibauthor{HARARI G\@, BANDRES M~A\@, LUMER Y, et~al}\@. \bibtitle{Topological
+  insulator laser: Theory}\bibmark{[J/OL]}\@. \bibjournal{Science}\@,
+  \bibyear{2018}\@, \bibvolume{359}\bibnumber{(6381)}\@.
+  \newline\url{http://science.sciencemag.org/content/359/6381/eaar4003}\@.
+
+\bibitem{Quijandria2018}
+\bibauthor{QUIJANDR\'{I}A F\@, NAETHER U\@, \"OZDEMIR S~K, et~al}\@.
+  \bibtitle{$\mathcal{PT}$-symmetric circuit QED}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. A}\@, \bibyear{2018}\@,
+  \bibvolume{97}\thinspace{}\textnormal{: }\bibpages{053846}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevA.97.053846}\@.
+
+\bibitem{fukui2005chern}
+\bibauthor{FUKUI T\@, HATSUGAI Y\@, SUZUKI H}\@. \bibtitle{Chern numbers in
+  discretized Brillouin zone: efficient method of computing (spin) Hall
+  conductances}\bibmark{[J]}\@. \bibjournal{Journal of the Physical Society of
+  Japan}\@, \bibyear{2005}\@,
+  \bibvolume{74}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{1674\thinspace{}\textnormal{--}\thinspace{}1677}\@.
+
+\bibitem{kolodrubetz2017geometry}
+\bibauthor{KOLODRUBETZ M\@, SELS D\@, MEHTA P, et~al}\@. \bibtitle{Geometry and
+  non-adiabatic response in quantum and classical systems}\bibmark{[J]}\@.
+  \bibjournal{Physics Reports}\@, \bibyear{2017}\@,
+  \bibvolume{697}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}87}\@.
+
+\bibitem{palumbo2018revealing}
+\bibauthor{PALUMBO G\@, GOLDMAN N}\@. \bibtitle{Revealing tensor monopoles
+  through quantum-metric measurements}\bibmark{[J]}\@. \bibjournal{Physical
+  review letters}\@, \bibyear{2018}\@,
+  \bibvolume{121}\bibnumber{(17)}\thinspace{}\textnormal{:
+  }\bibpages{170401}\@.
+
+\bibitem{ozawa2018extracting}
+\bibauthor{OZAWA T\@, GOLDMAN N}\@. \bibtitle{Extracting the quantum metric
+  tensor through periodic driving}\bibmark{[J]}\@. \bibjournal{Physical Review
+  B}\@, \bibyear{2018}\@,
+  \bibvolume{97}\bibnumber{(20)}\thinspace{}\textnormal{: }\bibpages{201117}\@.
+
+\bibitem{yu2018experimental}
+\bibauthor{YU M\@, YANG P\@, GONG M, et~al}\@. \bibtitle{Experimental
+  measurement of the complete quantum geometry of a solid-state spin
+  system}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1811.12840, to be
+  appeared in Phys.Rev.Lett}\@, \bibyear{2018}\@.
+
+\bibitem{Qihaotomography}
+\bibauthor{GUO Q-H\@, ZHOU M-Y\@, CAI J-Q, et~al}\@. \bibtitle{Tomography of
+  Quantum Geometry in an Interacting NMR Simulator, in
+  preparation}\bibmark{[H]}\@. \bibyear{2019}\@.
+
+\bibitem{kohn1964theory}
+\bibauthor{KOHN W}\@. \bibtitle{Theory of the insulating state}\bibmark{[J]}\@.
+  \bibjournal{Physical Review}\@, \bibyear{1964}\@,
+  \bibvolume{133}\bibnumber{(1A)}\thinspace{}\textnormal{: }\bibpages{A171}\@.
+
+\bibitem{resta2006kohn}
+\bibauthor{RESTA R}\@. \bibtitle{Kohn’s theory of the insulating state: A
+  quantum-chemistry viewpoint}\bibmark{[J]}\@. \bibjournal{The Journal of
+  chemical physics}\@, \bibyear{2006}\@,
+  \bibvolume{124}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{104104}\@.
+
+\bibitem{ozawa2019localization}
+\bibauthor{OZAWA T\@, GOLDMAN N}\@. \bibtitle{A localization marker from
+  many-body quantum geometry measurements}\bibmark{[J]}\@. \bibjournal{arXiv
+  preprint arXiv:1904.11764}\@, \bibyear{2019}\@.
+
+\bibitem{marrazzo2019local}
+\bibauthor{MARRAZZO A\@, RESTA R}\@. \bibtitle{Local theory of the insulating
+  state}\bibmark{[J]}\@. \bibjournal{Physical Review Letters}\@,
+  \bibyear{2019}\@, \bibvolume{122}\bibnumber{(16)}\thinspace{}\textnormal{:
+  }\bibpages{166602}\@.
+
+\bibitem{wen2004quantum}
+\bibauthor{WEN X-G}\@. \bibbooktitle{Quantum field theory of many-body systems:
+  from the origin of sound to an origin of light and electrons}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Oxford University
+  Press on Demand}\@, \bibyear{2004}\@.
+
+\bibitem{gritsev2012dynamical}
+\bibauthor{GRITSEV V\@, POLKOVNIKOV A}\@. \bibtitle{Dynamical quantum Hall
+  effect in the parameter space}\bibmark{[J]}\@. \bibjournal{Proceedings of the
+  National Academy of Sciences}\@, \bibyear{2012}\@,
+  \bibvolume{109}\bibnumber{(17)}\thinspace{}\textnormal{:
+  }\bibpages{6457\thinspace{}\textnormal{--}\thinspace{}6462}\@.
+
+\bibitem{roushan2014observation}
+\bibauthor{ROUSHAN P\@, NEILL C\@, CHEN Y, et~al}\@. \bibtitle{Observation of
+  topological transitions in interacting quantum circuits}\bibmark{[J]}\@.
+  \bibjournal{Nature}\@, \bibyear{2014}\@,
+  \bibvolume{515}\bibnumber{(7526)}\thinspace{}\textnormal{: }\bibpages{241}\@.
+
+\bibitem{goldman2016topological}
+\bibauthor{GOLDMAN N\@, BUDICH J~C\@, ZOLLER P}\@. \bibtitle{Topological
+  quantum matter with ultracold gases in optical lattices}\bibmark{[J]}\@.
+  \bibjournal{Nature Physics}\@, \bibyear{2016}\@,
+  \bibvolume{12}\bibnumber{(7)}\thinspace{}\textnormal{: }\bibpages{639}\@.
+
+\bibitem{duan2004scalable}
+\bibauthor{DUAN L-M\@, KIMBLE H}\@. \bibtitle{Scalable photonic quantum
+  computation through cavity-assisted interactions}\bibmark{[J]}\@.
+  \bibjournal{Physical review letters}\@, \bibyear{2004}\@,
+  \bibvolume{92}\bibnumber{(12)}\thinspace{}\textnormal{: }\bibpages{127902}\@.
+
+\bibitem{bandres2018topological}
+\bibauthor{BANDRES M~A\@, WITTEK S\@, HARARI G, et~al}\@. \bibtitle{Topological
+  insulator laser: Experiments}\bibmark{[J/OL]}\@. \bibjournal{Science}\@,
+  \bibyear{2018}\@, \bibvolume{359}\bibnumber{(6381)}\@.
+  \newline\url{http://science.sciencemag.org/content/359/6381/eaar4005}\@.
+
+\bibitem{prodan2009robustness}
+\bibauthor{PRODAN E}\@. \bibtitle{Robustness of the spin-Chern
+  number}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. B}\@, \bibyear{2009}\@,
+  \bibvolume{80}\thinspace{}\textnormal{: }\bibpages{125327}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevB.80.125327}\@.
+
+\bibitem{klitzing1980new}
+\bibauthor{KLITZING K~V\@, DORDA G\@, PEPPER M}\@. \bibtitle{New Method for
+  High-Accuracy Determination of the Fine-Structure Constant Based on Quantized
+  Hall Resistance}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. Lett.}\@,
+  \bibyear{1980}\@, \bibvolume{45}\thinspace{}\textnormal{:
+  }\bibpages{494\thinspace{}\textnormal{--}\thinspace{}497}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.45.494}\@.
+
+\bibitem{hasan2010colloquium}
+\bibauthor{HASAN M~Z\@, KANE C~L}\@. \bibtitle{Colloquium: Topological
+  insulators}\bibmark{[J/OL]}\@. \bibjournal{Rev. Mod. Phys.}\@,
+  \bibyear{2010}\@, \bibvolume{82}\thinspace{}\textnormal{:
+  }\bibpages{3045\thinspace{}\textnormal{--}\thinspace{}3067}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/RevModPhys.82.3045}\@.
+
+\bibitem{lu2015experimental}
+\bibauthor{LU L\@, WANG Z\@, YE D, et~al}\@. \bibtitle{Experimental observation
+  of Weyl points}\bibmark{[J/OL]}\@. \bibjournal{Science}\@, \bibyear{2015}\@,
+  \bibvolume{349}\bibnumber{(6248)}\thinspace{}\textnormal{:
+  }\bibpages{622\thinspace{}\textnormal{--}\thinspace{}624}\@.
+  \newline\url{http://science.sciencemag.org/content/349/6248/622}\@.
+
+\bibitem{sala2015spin}
+\bibauthor{SALA V~G\@, SOLNYSHKOV D~D\@, CARUSOTTO I, et~al}\@.
+  \bibtitle{Spin-Orbit Coupling for Photons and Polaritons in
+  Microstructures}\bibmark{[J/OL]}\@. \bibjournal{Phys. Rev. X}\@,
+  \bibyear{2015}\@, \bibvolume{5}\thinspace{}\textnormal{:
+  }\bibpages{011034}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevX.5.011034}\@.
+
+\bibitem{schomerus2013topologically}
+\bibauthor{SCHOMERUS H}\@. \bibtitle{Topologically protected midgap states in
+  complex photonic lattices}\bibmark{[J/OL]}\@. \bibjournal{Opt. Lett.}\@,
+  \bibyear{2013}\@, \bibvolume{38}\bibnumber{(11)}\thinspace{}\textnormal{:
+  }\bibpages{1912\thinspace{}\textnormal{--}\thinspace{}1914}\@.
+  \newline\url{http://ol.osa.org/abstract.cfm?URI=ol-38-11-1912}\@.
+
+\bibitem{tsui1982two}
+\bibauthor{TSUI D~C\@, STORMER H~L\@, GOSSARD A~C}\@. \bibtitle{Two-Dimensional
+  Magnetotransport in the Extreme Quantum Limit}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. Lett.}\@, \bibyear{1982}\@,
+  \bibvolume{48}\thinspace{}\textnormal{:
+  }\bibpages{1559\thinspace{}\textnormal{--}\thinspace{}1562}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.48.1559}\@.
+
+\bibitem{lu2014topological}
+\bibauthor{LU L\@, JOANNOPOULOS J~D\@, SOLJA{\v{C}}I{\'C} M}\@.
+  \bibtitle{Topological photonics}\bibmark{[J/OL]}\@. \bibjournal{Nat.
+  Photonics}\@, \bibyear{2014}\@,
+  \bibvolume{8}\bibnumber{(11)}\thinspace{}\textnormal{: }\bibpages{821}\@.
+  \newline\url{https://doi.org/10.1038/nphoton.2014.248}\@.
+
+\bibitem{azbel1964energy}
+\bibauthor{AZBEL M~Y}\@. \bibtitle{Energy spectrum of a conduction electron in
+  a magnetic field}\bibmark{[J]}\@. \bibjournal{Sov. Phys. JETP}\@,
+  \bibyear{1964}\@, \bibvolume{19}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{634\thinspace{}\textnormal{--}\thinspace{}645}\@.
+
+\bibitem{lu2018spontaneous}
+\bibauthor{LU Y-K\@, OTHERS}\@. \bibtitle{Spontaneous T-symmetry breaking and
+  exceptional points in cavity quantum electrodynamics systems}\bibmark{[J]}\@.
+  \bibjournal{Sci. Bull.}\@, \bibyear{2018}\@,
+  \bibvolume{63}\bibnumber{(17)}\thinspace{}\textnormal{:
+  }\bibpages{1096\thinspace{}\textnormal{--}\thinspace{}1100}\@.
+
+\bibitem{Goldman2014a}
+\bibauthor{GOLDMAN N\@, JUZELIUNAS G\@, {\"{O}}HBERG P, et~al}\@.
+  \bibtitle{{Light-induced gauge fields for ultracold atoms}}\bibmark{[J]}\@.
+  \bibjournal{Rep. Prog. Phys.}\@, \bibyear{2014}\@,
+  \bibvolume{77}\bibnumber{(12)}\@.
+
+\bibitem{Zhu2006}
+\bibauthor{ZHU S-L\@, FU H\@, WU C-J, et~al}\@. \bibtitle{Spin Hall Effects for
+  Cold Atoms in a Light-Induced Gauge Potential}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. Lett.}\@, \bibyear{2006}\@,
+  \bibvolume{97}\thinspace{}\textnormal{: }\bibpages{240401}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevLett.97.240401}\@.
+
+\bibitem{georgescu2014quantum}
+\bibauthor{GEORGESCU I~M\@, ASHHAB S\@, NORI F}\@. \bibtitle{Quantum
+  simulation}\bibmark{[J]}\@. \bibjournal{Reviews of Modern Physics}\@,
+  \bibyear{2014}\@, \bibvolume{86}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{153}\@.
+
+\bibitem{Jia2013}
+\bibauthor{NINGYUAN J\@, OWENS C\@, SOMMER A, et~al}\@. \bibtitle{Time- and
+  Site-Resolved Dynamics in a Topological Circuit}\bibmark{[J/OL]}\@.
+  \bibjournal{Phys. Rev. X}\@, \bibyear{2015}\@,
+  \bibvolume{5}\thinspace{}\textnormal{: }\bibpages{021031}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/PhysRevX.5.021031}\@.
+
+\bibitem{Qi2011}
+\bibauthor{QI X-L\@, ZHANG S-C}\@. \bibtitle{Topological insulators and
+  superconductors}\bibmark{[J/OL]}\@. \bibjournal{Rev. Mod. Phys.}\@,
+  \bibyear{2011}\@, \bibvolume{83}\thinspace{}\textnormal{:
+  }\bibpages{1057\thinspace{}\textnormal{--}\thinspace{}1110}\@.
+  \newline\url{https://link.aps.org/doi/10.1103/RevModPhys.83.1057}\@.
+
+\end{thebibliography}
